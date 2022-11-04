@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-reduxform/static/css/main.561caa92.css",
+    "main.js": "/React-reduxform/static/js/main.acc08784.js",
+    "index.html": "/React-reduxform/index.html",
+    "main.561caa92.css.map": "/React-reduxform/static/css/main.561caa92.css.map",
+    "main.acc08784.js.map": "/React-reduxform/static/js/main.acc08784.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.561caa92.css",
+    "static/js/main.acc08784.js"
+  ]
+}
